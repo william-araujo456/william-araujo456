@@ -27,6 +27,9 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_kotlin.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+
 
 </div>
 
