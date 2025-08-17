@@ -21,8 +21,11 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" height="40" alt="html logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" height="40" alt="css logo"  />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_js.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+
 </div>
 
 ###
