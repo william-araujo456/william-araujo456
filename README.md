@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Meu nome é William e sou Desenvolvedor Web e Mobile, de Manaus</p>
+<p align="left">Meu nome é William e sou Desenvolvedor Web e Mobile, de Manaus-AM</p>
 
 ###
 
-<h2 align="left">Sobre mim: </h2>
+<h2 align="left">Sobre mim:</h2>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Eu programo com:</h2>
 
 ###
 
