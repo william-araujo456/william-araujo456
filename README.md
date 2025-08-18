@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Programando desde 2022<br>📚 No momento, estou aprendendo e desenvolvendo projetos com Django e PostgreSQL.<br>🎯 Objetivos: Busco inicialmente uma oportunidade de estágio em desenvolvimento, visando adquirir experiência prática e, futuramente, consolidar minha carreira como desenvolvedor front-end ou mobile.<br>🎲 Fato engraçado: Não mexa se o código estiver funcionando.</p>
+<p align="left">✨ Programando desde 2022<br>📚 No momento, estou aprendendo e desenvolvendo projetos com Django e PostgreSQL.<br>🎯 Objetivos: Busco inicialmente uma oportunidade de estágio em desenvolvimento, visando adquirir experiência prática e, futuramente, consolidar minha carreira como desenvolvedor front-end ou mobile.</p>
 
 ###
 
-<h2 align="left">Eu programo com</h2>
+<h2 align="left">Habilidades</h2>
 
 ###
 
