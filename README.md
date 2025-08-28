@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Programando desde 2022<br>📚 Atualmente, estou cursando Desenvolvimento de Aplicações Mobile na UNINTER e, como complemento, estou participando de um curso de extensão em Desenvolvimento de Software na FPFtech.<br>🎯 Objetivos: Busco inicialmente uma oportunidade de estágio em desenvolvimento, visando adquirir experiência prática e, futuramente, consolidar minha carreira como desenvolvedor front-end ou mobile.</p>
+<p align="left">✨ Programando desde 2022<br>📚 Atualmente, estou cursando Desenvolvimento de Aplicações Mobile na UNINTER e, como complemento, estou participando de um curso de extensão em Desenvolvimento de Software na FPFtech.<br>🎯 Objetivos: Busco inicialmente uma oportunidade de estágio em desenvolvimento, visando adquirir experiência prática e, futuramente, consolidar minha carreira como desenvolvedor front-end, back-end ou mobile.</p>
 
 ###
 
