@@ -19,20 +19,18 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_html.svg" height="40" alt="html logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_css.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_light_js.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_python.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_django.svg" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_kotlin.svg" height="40" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
-
-
 </div>
 
 ###
