@@ -1,6 +1,6 @@
-<h1 align="left">Opa, e aí! 👋</h1>
+<h1 align="left">E aí, seja bem-vindo(a)! 👋</h1>
 
-<p align="left">Sou William Mattson, Desenvolvedor Web e Mobile, natural de Manaus, Amazonas, Brasil.</p>
+<p align="left">Sou William Mattson, Desenvolvedor Web e Mobile.</p>
 
 <h2 align="left">Sobre mim</h2>
 
@@ -27,4 +27,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin"  />
   <img width="12" />
+</div>
+
+<div>
+  <h2>Vamos nos conectar</h2>
+  <a href="https://br.linkedin.com/in/williammattson" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
