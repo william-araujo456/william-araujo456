@@ -6,7 +6,7 @@
 
 <p align="left">
 ✨ Programando desde <strong>2022</strong><br>
-📚 Atualmente curso <strong>Desenvolvimento de Aplicações Mobile</strong> na UNINTER e participo de um curso de extensão em <strong>Desenvolvimento de Software</strong> na FPFtech.<br>
+📚 Atualmente curso <strong>Desenvolvimento de Aplicações Mobile</strong> na UNINTER.<br>
 🎯 <strong>Objetivo:</strong> conquistar minha primeira oportunidade como <strong>estagiário em desenvolvimento</strong>, aplicando meus conhecimentos e evoluindo como desenvolvedor <strong>web e mobile</strong>.
 </p>
 
